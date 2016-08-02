@@ -1,0 +1,4 @@
+horizon 2016-7-21版本：
+
+主要完成了镜像和快照的区分工作  没有malina的隐藏。
+思路：见网址https://review.openstack.org/#/c/289314/
